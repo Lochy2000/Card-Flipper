@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Fascinate Inline", system-ui;
+}
+
+body {
+    background: linear-gradient(to right, #0d7874, #0d3878);
+    height: 100vh;
+    padding-top: 1px;
+}
